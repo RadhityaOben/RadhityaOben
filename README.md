@@ -4,7 +4,7 @@
 
 <h1>📊 GitHub Statistics</h1>
 <p align="left">
-<a href="https://github.com/rivaannn/">
+<a href="https://github.com/radhityaoben/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radhityaoben&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=radhityaoben&layout=compact&langs_count=8&theme=algolia"/>
 </a>
